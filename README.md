@@ -20,15 +20,15 @@ git clone https://github.com/polpages1999/promptopia-app.git
 cd promptopia-app
 ```
 
-2. **Install dependencies
+2. **Install dependencies**
 ```bash
 npm install
 ```
 
-4. **Set Up Environment Variables
+4. **Set Up Environment Variables**
 Make sure to set up your environment variables for Google Authentication and any database connections.
 
-5. **Run the Development Server
+5. **Run the Development Server**
 ```bash
 npm run dev
 ```
