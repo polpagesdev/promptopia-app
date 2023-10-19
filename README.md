@@ -2,6 +2,8 @@
 
 Welcome to Promptopia, built with Next.js 13! This platform allows users to discover and share AI prompts with the community. Explore a wide range of features, from creating and editing prompts to searching for specific prompts by tags, profiles, or names.
 
+Visit the live app [here](https://promptopia-9kmnxeo5d-polpages-projects.vercel.app/)!
+
 ## Features
 
 - **User Profile**: Each user has a main profile where they can view their shared prompts and manage their account.
