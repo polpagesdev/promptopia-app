@@ -1,6 +1,6 @@
-# AI Prompt Community Platform
+# Promptopia: Share & Discover AI Prompts
 
-Welcome to the AI Prompt Community Platform, built with Next.js 13! This platform allows users to discover and share AI prompts with the community. Explore a wide range of features, from creating and editing prompts to searching for specific prompts by tags, profiles, or names.
+Welcome to Promptopia, built with Next.js 13! This platform allows users to discover and share AI prompts with the community. Explore a wide range of features, from creating and editing prompts to searching for specific prompts by tags, profiles, or names.
 
 ## Features
 
