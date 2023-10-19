@@ -28,7 +28,7 @@ npm install
 4. **Set Up Environment Variables**
 Make sure to set up your environment variables for Google Authentication and any database connections.
 
-5. **Run the Development Server**
+6. **Run the Development Server**
 ```bash
 npm run dev
 ```
